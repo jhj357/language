@@ -1,0 +1,16 @@
+E:\编程工具\vs2010projects\JPapp\JPapp\bin\Debug\JPapp.exe
+E:\编程工具\vs2010projects\JPapp\JPapp\bin\Debug\JPapp.pdb
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.Form1.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.Properties.Resources.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.WordRemember.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.exe
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.pdb
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.WordTest.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.GrammarTest.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.SentenceTest.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.UserWindow.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.AboutUs.resources
+E:\编程工具\vs2010projects\JPapp\JPapp\obj\x86\Debug\JPapp.Help.resources
